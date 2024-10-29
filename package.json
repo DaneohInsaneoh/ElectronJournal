@@ -1,0 +1,15 @@
+{
+  "name": "electronjournal",
+  "version": "1.0.0",
+  "description": "My First Electron App (A Journal)",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dane Donaldson",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^33.0.2"
+  }
+}
