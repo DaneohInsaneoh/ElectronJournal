@@ -1,0 +1,12 @@
+@import "../node_modules/picnic/picnic.min.css";
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background-color: aqua;
+  background-size: cover;
+  user-select: none;
+}
+
